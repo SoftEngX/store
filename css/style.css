@@ -394,14 +394,14 @@ body {
 .footer__item-input {
     width: 100%;
     display: block;
-    padding: 10px 60px 10px 0;
+    padding: 10px 60px 10px 10px;
     border: none;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #000000;
     background-color: #C4A9CD;
     font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 14px;
-    color: #1b1b1b;
+    color: #1b0303;
 }
 
 .footer__item-input::placeholder {
@@ -417,6 +417,7 @@ body {
     position: absolute;
     right: 0;
     top: 10px;
+    padding: 0 8px;
 }
 
 .footer__item-list li {
