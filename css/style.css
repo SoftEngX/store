@@ -42,7 +42,6 @@ body {
 
 .header {
     margin-bottom: 90px;
-    background-color: #f8f3fa;
 }
 
 .header__inner {
@@ -721,6 +720,3 @@ body {
     }
 }
 
-.top {
-    color:;
-}
