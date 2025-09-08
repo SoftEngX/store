@@ -42,6 +42,7 @@ body {
 
 .header {
     margin-bottom: 90px;
+    background-color: #f8f3fa;
 }
 
 .header__inner {
@@ -88,7 +89,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 0 10px;
-    min-height: 700px;  
+    min-height: 700px;
 }
 
 .top-slide__content {
@@ -127,7 +128,7 @@ body {
 }
 
 .button:hover {
-    background-color: #7449BB;
+    background-color: #8156c7;
     color: #fff;
 }
 
