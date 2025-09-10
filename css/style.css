@@ -68,9 +68,25 @@ body {
     text-transform: uppercase;
 }
 
+.menu_link {
+    transition: all 0.3s ease;
+}
+
+.menu__link:hover {
+    color:#7449BB;
+}
+
 .user-nav {
     display: flex;
     gap: 0 20px;
+}
+
+.user-nav__link img {
+    transition: all 0.3s ease;
+}
+
+.user-nav__link img:hover {
+    transform: rotate(50deg);
 }
 
 .top {
