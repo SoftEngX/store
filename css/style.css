@@ -436,11 +436,12 @@ body {
 }
 
 .footer__social-item svg path {
-    transition: all .3s;
+    transition: all 0.4s ease;
 }
 
 .footer__social-item svg:hover path{
     fill: #7449BB;
+    transform: rotate(360deg);
 }
 
 .footer__nav {
