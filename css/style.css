@@ -471,6 +471,14 @@ body {
     gap: 0 20px;
 }
 
+.footer__nav-link {
+    transition: all 0.3s ease;
+}
+
+.footer__nav-link:hover {
+    color: rgb(187, 82, 1);
+}
+
 .swiper-pagination {
     display: none;
 }
