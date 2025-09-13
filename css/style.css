@@ -457,7 +457,6 @@ body {
 
 .footer__social-item svg:hover path{
     fill: #7449BB;
-    transform: rotate(360deg);
 }
 
 .footer__nav {
